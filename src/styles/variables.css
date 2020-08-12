@@ -1,0 +1,11 @@
+body {
+  --neutralPrimary: #ffffff;
+  --neutralDark: #201f1e;
+  --textPrimary: #dddcdc;
+  --textSecondary: rgb(189, 189, 189);
+  --themePrimary: #4e32bf;
+  --themeSecondary: #5f45c7;
+  --themeLight: #c2b8ec;
+  --themeTertiary: #8c79d9;
+  --errorMessageColor: #ef516e;
+}

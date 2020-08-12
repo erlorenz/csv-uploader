@@ -1,0 +1,5 @@
+{
+  "remote.WSL.fileWatcher.polling": true, //For WSL 1.0, 2.0 does not need
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true
+}
