@@ -1,5 +1,5 @@
 {
-  "name": "react-parcel-typescript-starter",
+  "name": "bulk-orders-app",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -24,10 +24,13 @@
     "typescript": "^3.9.7"
   },
   "dependencies": {
+    "@types/papaparse": "^5.0.6",
     "axios": "^0.19.2",
     "dayjs": "^1.8.27",
+    "papaparse": "^5.2.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
+    "react-dropzone": "^11.0.3",
     "react-router-dom": "^5.2.0",
     "sanitize.css": "^11.0.0",
     "styled-components": "^5.1.0"
